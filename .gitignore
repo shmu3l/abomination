@@ -1,0 +1,10 @@
+scraper/cookies.json
+data/*/raw/progress.json
+data/Abombination81/
+archive/Abombination81/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store

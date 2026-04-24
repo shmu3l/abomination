@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2015854700432924994",
+    "author": "clsterspop",
+    "author_name": "plotier",
+    "text": "@jtrevorchapman hows the ml working out, you gotta make sure you have a good source of data, bloomberg has data from bloomberg",
+    "created_at": "Mon Jan 26 18:29:48 +0000 2026",
+    "likes": 0,
+    "retweets": 0,
+    "reply_count": 1,
+    "quote_count": 0,
+    "views": 204,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/clsterspop/status/2015854700432924994"
+  },
+  {
+    "id": "2015877341923135551",
+    "author": "jtrevorchapman",
+    "author_name": "Trevor Chapman",
+    "text": "@clsterspop 46 data points. Realtime. Focused on predicting y/n token price on 15m markets. Gathering the data that chainlink bases their BTC price on. Exp var between .28 and .4. Moved yesterday to RL scalping w 200ms delay, neg spread rewards, etc. will let it cook for a week then deploy w",
+    "created_at": "Mon Jan 26 19:59:46 +0000 2026",
+    "likes": 1,
+    "retweets": 0,
+    "reply_count": 2,
+    "quote_count": 0,
+    "views": 287,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/jtrevorchapman/status/2015877341923135551"
+  }
+]

@@ -1,6 +1,6 @@
-# @Abombination81 X Archive
+# abomination
 
-Local archive of all posts and replies from [@Abombination81](https://x.com/Abombination81).
+X archive tool — scrapes all posts and replies from a target X account and generates a local markdown archive.
 
 ## Setup
 
@@ -35,12 +35,11 @@ python scraper/to_markdown.py
 
 ## Structure
 
-- `data/raw/tweets.json` — All tweets (JSON, source of truth)
-- `data/raw/replies/{tweet_id}.json` — Replies per tweet
-- `archive/index.md` — Table of contents
-- `archive/posts/{date}-{id}.md` — One markdown file per post + replies
+- `data/<target>/raw/tweets.json` — All tweets (JSON, source of truth)
+- `data/<target>/raw/replies/{tweet_id}.json` — Replies per tweet
+- `archive/<target>/index.md` — Table of contents
+- `archive/<target>/posts/{date}-{id}.md` — One markdown file per post + replies
 
 ## Resume
 
 The scraper saves progress after each page. If interrupted, just run it again — it skips already-fetched tweets.
-# abomination

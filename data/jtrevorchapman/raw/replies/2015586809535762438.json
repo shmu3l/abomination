@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2016273498583236964",
+    "author": "Anytraderr",
+    "author_name": "Anytrader",
+    "text": "@jtrevorchapman I think it’s not bad, but I’m still unsure how to confirm things like trend, price movement, and volatility.\nI guess I’ll need to keep watching the market and analyzing the logs constantly.\nThe logic of your two bots is completely different, right? + https://t.co/7ieQvh2QCm",
+    "created_at": "Tue Jan 27 22:13:57 +0000 2026",
+    "likes": 0,
+    "retweets": 0,
+    "reply_count": 3,
+    "quote_count": 0,
+    "views": 291,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_s6w2_XUAETsOo.png"
+      }
+    ],
+    "is_retweet": false,
+    "url": "https://x.com/Anytraderr/status/2016273498583236964"
+  },
+  {
+    "id": "2016290236439961732",
+    "author": "jtrevorchapman",
+    "author_name": "Trevor Chapman",
+    "text": "@Anytraderr Looks incredible. \n\nWhat are you using to code this? Explain to the AI the issue: different market sessions should fall into different strategies. Let it know you need to identify the trend, you need to track volatility from market to market, and ask how a quant firm would do so.",
+    "created_at": "Tue Jan 27 23:20:27 +0000 2026",
+    "likes": 1,
+    "retweets": 0,
+    "reply_count": 1,
+    "quote_count": 0,
+    "views": 220,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/jtrevorchapman/status/2016290236439961732"
+  },
+  {
+    "id": "2026832926713725419",
+    "author": "adeliedev",
+    "author_name": "Adelie The Little Penguin 🇬🇧",
+    "text": "@jtrevorchapman damn bro you ate all the markets chill 😅\nim joking you're a beast keep going 🦾",
+    "created_at": "Thu Feb 26 01:33:21 +0000 2026",
+    "likes": 1,
+    "retweets": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "views": 43,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/adeliedev/status/2026832926713725419"
+  },
+  {
+    "id": "2018483164369371476",
+    "author": "ironrooted",
+    "author_name": "Ulfhednar",
+    "text": "@jtrevorchapman What is it doing for weather markets? Anything different?",
+    "created_at": "Tue Feb 03 00:34:22 +0000 2026",
+    "likes": 0,
+    "retweets": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "views": 63,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/ironrooted/status/2018483164369371476"
+  },
+  {
+    "id": "2015857687855292625",
+    "author": "BadSamoSamo",
+    "author_name": "CAPRI🐈",
+    "text": "@jtrevorchapman it's so interesting to read your feed, how do you prevent cloudfare blocking your bot to trade itself in polymarket?",
+    "created_at": "Mon Jan 26 18:41:40 +0000 2026",
+    "likes": 0,
+    "retweets": 0,
+    "reply_count": 1,
+    "quote_count": 0,
+    "views": 170,
+    "media": [],
+    "is_retweet": false,
+    "url": "https://x.com/BadSamoSamo/status/2015857687855292625"
+  }
+]
