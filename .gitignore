@@ -1,7 +1,7 @@
 scraper/cookies.json
 data/*/raw/progress.json
-data/Abombination81/
-archive/Abombination81/
+data/*
+archive/*
 __pycache__/
 *.pyc
 .env
